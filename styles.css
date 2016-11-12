@@ -3,7 +3,10 @@ body {
 }
 
 h1 {
-    color: #50505D;
+    color: #35353B;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.03em;
+    line-height: 1.5em;
 }
 
 .boss-links {
