@@ -13,3 +13,7 @@ h1 {
   font-style: italic;
   color: orange;
 }
+
+.giflink.salvo {
+  /*this is how you select a thing that has both of those classes i.e. giflink and salvo*/
+}
