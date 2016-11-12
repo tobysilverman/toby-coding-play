@@ -3,5 +3,10 @@ body {
 }
 
 h1 {
-    color: #7B7B85;
+    color: #50505D;
+}
+
+.boss-links {
+  font-style: italic;
+  color: orange;
 }
